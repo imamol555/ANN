@@ -1,2 +1,2 @@
 # ANN
-Projects for Artificial Neural Networks
+Implementation of Neural Network Algortihms
